@@ -15,6 +15,7 @@ public class demo2 {
 	public static void main(String[] args) {
 
 		System.out.println("hello github");
+		System.out.println("this line was added in a branch created from local IDE");
 
 	}
 
